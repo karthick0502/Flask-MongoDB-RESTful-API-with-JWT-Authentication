@@ -14,6 +14,5 @@ app.config['SECRET_KEY'] = 'e4b3a928dc944375bd2747b224357307'
 client = pymongo.MongoClient("mongodb+srv://test:test@cluster0.2figo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 db = client.spiceblue
 
-
 from spiceblue import routes
 
