@@ -24,7 +24,7 @@ This project implements a RESTful API using Flask and MongoDB, incorporating JWT
               }
 
 
-2 Login
+2. Login
 
     URL : localhost:5000/login
     Method : POST
@@ -38,7 +38,7 @@ This project implements a RESTful API using Flask and MongoDB, incorporating JWT
               }  
 
     
-    2 Template CRUD
+3. Template CRUD
     
     1.Insert new Template
 
