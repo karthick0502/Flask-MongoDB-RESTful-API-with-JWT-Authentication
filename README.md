@@ -24,8 +24,6 @@ The technologies used in this project include:
 
 7. **Python**: Python is the primary programming language used for developing the Flask application and defining the API endpoints, as well as handling various backend operations.
 
-These technologies collectively enable the creation of a robust and secure RESTful API with user authentication and CRUD operations on templates stored in a MongoDB database.
-
 ## Usage:
 1.Register
     
